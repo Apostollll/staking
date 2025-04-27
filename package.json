@@ -1,0 +1,22 @@
+{
+  "name": "ton-staking-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tonconnect/ui": "^0.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tonweb": "^0.0.87"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.4",
+    "vite": "^4.1.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21"
+  }
+}
